@@ -6,7 +6,7 @@ Quick info:
 - 💃 My pronouns: he/she/they (it's your choice heheh)
 - 📫 Reach me on discord at `Fern#2528` or email me at `hihi.fernguy@gmail.com`
 
-[![Fern's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=ffernn-dev&count_private=true&show_icons=true))]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=ffernn-dev&count_private=true&show_icons=true))
+[![Fern's GitHub stats]([https://github-readme-stats.vercel.app/api?username=ffernn-dev&count_private=true&show_icons=true](https://github-readme-stats.vercel.app/api?username=ffernn-dev&count_private=true&show_icons=true))]
 
 <!--
 **ffernn-dev/ffernn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
