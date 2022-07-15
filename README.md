@@ -1,4 +1,4 @@
-### Oh hi 😮
+### Oh hi! Funny seeing you here 😮
 I'm Fern (sometimes ffernn) and this is my funky lil github account.
 It's kinda random and disorganised, but I do have a website that has a proper list of my projects: https://ffernn-dev.github.io
 
