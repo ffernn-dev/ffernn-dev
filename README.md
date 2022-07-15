@@ -1,4 +1,12 @@
-### Hi there 👋
+### Oh hi 😮
+I'm Fern (sometimes ffernn) and this is my funky lil github account.
+It's kinda random and disorganised, but I do have a website that has a proper list of my projects: https://ffernn-dev.github.io
+
+Quick info:
+- 💃 My pronouns: he/she/they (it's your choice heheh)
+- 📫 Reach me on discord at `Fern#2528` or email me at `hihi.fernguy@gmail.com`
+
+https://github-readme-stats.vercel.app/api?username=ffernn-dev&count_private=true&show_icons=true
 
 <!--
 **ffernn-dev/ffernn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
