@@ -1,25 +1,16 @@
-### Oh hi! Funny seeing you here 😮
-I'm Fern (sometimes ffernn) and this is my funky lil github account.
-It's kinda random and disorganised, but I do have a website that has a proper list of my projects: https://ffernn-dev.github.io
+### I'm gonna feed into the sterotype and say G'day!
+Hi! You happen to be visitor number
+[![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)]
+I'm Fern (sometimes ffernn), an Aussie guy who does a bit of this and a bit of that.
+There's so many unfinished projects on this account for now, a couple games, some websites. 
 
 Quick info:
 - 💃 My pronouns: he/she/they (it's your choice heheh)
 - 📫 Reach me on discord at `Fern#2528` or email me at `hihi.fernguy@gmail.com`
 
+Contact/Social:
+[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg)](
+
 [![Fern's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffernn-dev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**ffernn-dev/ffernn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
