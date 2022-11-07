@@ -9,9 +9,6 @@ Quick info:
 - 💃 My pronouns: he/she/they (it's your choice heheh)
 - 📫 Reach me on discord at `Fern#2528` or email me at `hihi.fernguy@gmail.com`
 
-Contact/Social:
-[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg)](
-
 [![Fern's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffernn-dev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
