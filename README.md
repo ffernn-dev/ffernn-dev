@@ -1,6 +1,4 @@
 ### I'm gonna feed into the sterotype and say G'day!
-Hi! You happen to be visitor number
-
 I'm Fern (sometimes ffernn), an Aussie guy who does a bit of this and a bit of that.
 There's so many unfinished projects on this account for now, a couple games, some websites. 
 
